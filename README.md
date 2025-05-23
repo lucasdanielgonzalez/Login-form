@@ -42,6 +42,12 @@ Este proyecto contiene dos formularios simples: uno de **Login** y otro de **Reg
 ```bash
 git clone https://github.com/lucasdanielgonzalez/Login-form.git
 
+👤 Autor
+Lucas Daniel González
+
+📧 lucadaniengonzalez@gmail.com
+🌐 https://github.com/lucasdanielgonzalez
+
 
 
 
